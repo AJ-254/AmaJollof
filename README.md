@@ -1,2 +1,2 @@
-# AmaJollof
+# AyJay
 A commercial website
